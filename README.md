@@ -2,8 +2,11 @@ CPSC353
 Text In Image
 
 Scott Tran
+
 Professor: Reza Nikoopour
+
 California University State, Fullerton
+
 Project Description
 
 This program was designed to encode and decode messages on an image. 
@@ -30,6 +33,9 @@ $ python3 main.py -d <image>.png
 Stegenography Project CPSC353
 
 optional arguments:
+
   man       //Open up help menu
+  
   -d        //decode on an image
+  
   -e        //encode on an image
